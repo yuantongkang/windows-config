@@ -1,0 +1,47 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI (TrueType)"=""
+
+"Segoe UI Black (TrueType)"=""
+
+"Segoe UI Black Italic (TrueType)"=""
+
+"Segoe UI Bold (TrueType)"=""
+
+"Segoe UI Bold Italic (TrueType)"=""
+
+"Segoe UI Emoji (TrueType)"=""
+
+"Segoe UI Historic (TrueType)"=""
+
+"Segoe UI Italic (TrueType)"=""
+
+"Segoe UI Light (TrueType)"=""
+
+"Segoe UI Light Italic (TrueType)"=""
+
+"Segoe UI Semibold (TrueType)"=""
+
+"Segoe UI Semibold Italic (TrueType)"=""
+
+"Segoe UI Semilight (TrueType)"=""
+
+"Segoe UI Semilight Italic (TrueType)"=""
+
+"Segoe UI Symbol (TrueType)"=""
+
+"Segoe MDL2 Assets (TrueType)"=""
+
+"Segoe Print (TrueType)"=""
+
+"Segoe Print Bold (TrueType)"=""
+
+"Segoe Script (TrueType)"=""
+
+"Segoe Script Bold (TrueType)"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"Segoe UI"="msyh.ttc"
+"Microsoft YaHei UI"="msyh.ttc"
